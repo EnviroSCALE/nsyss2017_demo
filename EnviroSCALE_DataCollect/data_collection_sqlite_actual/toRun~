@@ -1,0 +1,6 @@
+1. run GUI.py to run subscriber with GUI.
+2. put the filename where you want to save data in DEFINE.py
+3. after consuming data will be saved in (DEFINE.DB_NAME).sqlite file 
+4. to show data, run show_db.py
+
+
